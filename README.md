@@ -1,10 +1,11 @@
 # ai-detyra2-CSP
 ## Intruksione mbi egzekutim të kodit:
-•	Instaloni Python version mbi 3.0+ përmes linkut:
+
+### Instaloni Python version mbi 3.0+ përmes linkut:
 
 https://www.python.org/downloads/
 
-•	Instaloni Google Or-Tools (pa dallim sistemi operativ) për gjuhën Python duke u bazuar në këtë link:
+### Instaloni Google Or-Tools (pa dallim sistemi operativ) për gjuhën Python duke u bazuar në këtë link:
 
 https://developers.google.com/optimization/install
 
@@ -12,7 +13,7 @@ https://developers.google.com/optimization/install
 
 •	Navigoni konzollën në folderin ku ndodhet kodi
 
-•	Egzekutoni kodin përmes komandave të python, shembull:
+##  Ekzekutimi ne python:
 
-python3 *Emri i file ku ndodhet kodi*.py
+python3 nBlockedQueens.py.py
 
